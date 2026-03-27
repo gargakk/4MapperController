@@ -1,0 +1,36 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+FourMapperController	KEYWORD1
+Scene	KEYWORD1
+ControllerState	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+update	KEYWORD2
+selectScene	KEYWORD2
+getSceneCount	KEYWORD2
+getScenes	KEYWORD2
+getSceneById	KEYWORD2
+getSceneByIndex	KEYWORD2
+getActiveSceneId	KEYWORD2
+isProjectorLive	KEYWORD2
+getState	KEYWORD2
+sendReady	KEYWORD2
+onScenesReceived	KEYWORD2
+onActiveSceneChanged	KEYWORD2
+onProjectorStateChanged	KEYWORD2
+onError	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+DISCONNECTED	LITERAL1
+WAITING	LITERAL1
+CONNECTED	LITERAL1
+ERROR_STATE	LITERAL1
