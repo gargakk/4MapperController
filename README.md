@@ -1,3 +1,7 @@
+> [!WARNING]
+> **Archived (November 2026).** 4mapper no longer supports USB / Arduino / ESP32 controllers, and this library is no longer maintained.
+> Scenes in 4mapper are now switched with the number keys **1–9**, on every plan. Read why: [Goodbye Arduino Controller, Hello Keyboard Scenes](https://4mapper.com/blog/post/arduino-controller-retired-keyboard-scenes).
+
 # 4MapperController
 
 > Arduino library for building custom hardware controllers for [4mapper](https://4mapper.com) — the browser-based projection mapping software.
